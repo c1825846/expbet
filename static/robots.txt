@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /analysis/
+Disallow: /user/
+Disallow: /admin/
+Disallow: /moderator/
+Allow: /
+Allow: /posts
+Allow: /posts/*
+Allow: /subscription
+Allow: /contacts
